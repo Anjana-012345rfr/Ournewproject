@@ -1,6 +1,6 @@
 # profile
 
-A new Flutter project.
+My profile with flutter.
 
 ## Getting Started
 
